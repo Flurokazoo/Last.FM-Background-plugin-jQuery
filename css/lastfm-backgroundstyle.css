@@ -1,0 +1,8 @@
+body {
+    margin: 0
+}
+
+.lastfm-background {
+    z-index: -1;
+    padding-top: 1px;
+}
